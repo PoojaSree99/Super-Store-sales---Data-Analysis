@@ -10,7 +10,11 @@ Actionable insights & recommendations
 Thanks!
 
 Superstore sales dashboard
+
 ![Superstore sales dashboard image ](https://github.com/user-attachments/assets/9e78b3d0-a440-420d-89b3-ed36a95e339a)
 
+
+
 Superstore  sales forecast for 15 days
+
 ![Superstore  sales forecast for 15 days image](https://github.com/user-attachments/assets/d046d8a1-b937-4929-bac4-462cc093f336)
